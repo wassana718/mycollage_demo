@@ -1,5 +1,5 @@
 # mycollage_demo
 This is my first Git Repository
-<b>
+<br>
 Aurhor - Atit magar
 
